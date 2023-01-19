@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637768066 source:c:\Corona Tracker\Corona Tracker.c
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+
